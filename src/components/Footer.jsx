@@ -3,7 +3,7 @@ function Footer() {
     let year = new Date().getFullYear();
   return (
     
-      <footer className='container'>
+      <footer >
         Copyright {year}
       </footer>
   );

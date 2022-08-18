@@ -1,59 +1,58 @@
-const projects = [
-	{   id:1,
+const projects = [{
+		id: 1,
 
 		name: 'colorflipper',
-		img:
-			'https://www.youtube.com/watch?v=PcSUEo0P0GU&list=PLgBH1CvjOA63Xvt0BaeQ7zL4KXX96Wbgp&index=2&t=0s'
+		img: './images/colorflipper.png'
 	},
-	{   id:2,
+	{
+		id: 2,
 		name: 'counter',
-		img:
-			'https://www.youtube.com/watch?v=8A7-0gsbHA0&list=PLgBH1CvjOA63Xvt0BaeQ7zL4KXX96Wbgp&index=3&t=0s'
+		img: './images/counter.png'
 	},
-	{   id:3,
+	{
+		id: 3,
 		name: 'reviewss',
-		img:
-			'https://www.youtube.com/watch?v=bFOuUypjkSM&list=PLgBH1CvjOA63Xvt0BaeQ7zL4KXX96Wbgp&index=4&t=0s'
+		img: './images/reviews.png'
 	},
-	{   id:4,
+	{
+		id: 4,
 		name: 'navbar',
-		img:
-			'https://www.youtube.com/watch?v=pbsvhVPFHX0&list=PLgBH1CvjOA63Xvt0BaeQ7zL4KXX96Wbgp&index=5&t=0s'
+		img: './images/navbar.png'
 	},
-	{   id:5,
+	{
+		id: 5,
 		name: 'sidebar',
-		img:
-			'https://www.youtube.com/watch?v=kvsmBV19Sz0&list=PLgBH1CvjOA63Xvt0BaeQ7zL4KXX96Wbgp&index=6&t=0s'
+		img: './images/sidebar.png'
 	},
-	{   id:6,
+	{
+		id: 6,
 		name: 'modal',
-		youtube:
-			'https://www.youtube.com/watch?v=wnb-BfjR-oo&list=PLgBH1CvjOA63Xvt0BaeQ7zL4KXX96Wbgp&index=7&t=0s'
+		img: './images/modal.png'
 	},
-	{   id:7,
+	{
+		id: 7,
 		name: 'questions',
-		img:
-			'https://www.youtube.com/watch?v=ObrYwPRyeqc&list=PLgBH1CvjOA63Xvt0BaeQ7zL4KXX96Wbgp&index=8&t=0s'
+		img: './images/questions.png'
 	},
-	{   id:8,
+	{
+		id: 8,
 		name: 'menu',
-		img:
-			'https://www.youtube.com/watch?v=a9-Ro9rc7E4&list=PLgBH1CvjOA63Xvt0BaeQ7zL4KXX96Wbgp&index=9&t=0s'
+		img: './images/menu.png'
 	},
-	{   id:9,
+	{
+		id: 9,
 		name: 'video',
-		img:
-			'https://www.youtube.com/watch?v=9HVKR_hK0nY&list=PLgBH1CvjOA63Xvt0BaeQ7zL4KXX96Wbgp&index=10&t=0s'
+		img: './images/video.png'
 	},
-	{   id:10,
+	{
+		id: 10,
 		name: 'scroll',
-		img:
-			'https://www.youtube.com/watch?v=NBkD-O7f4Bs&list=PLgBH1CvjOA63Xvt0BaeQ7zL4KXX96Wbgp&index=11&t=0s'
+		img: './images/scroll.png'
 	},
-	{   id:11,
+	{
+		id: 11,
 		name: 'tabs',
-		img:
-			'https://www.youtube.com/watch?v=NBkD-O7f4Bs&list=PLgBH1CvjOA63Xvt0BaeQ7zL4KXX96Wbgp&index=11&t=0s'
+		img: './images/tabs.png'
 	}
 ];
 export default projects;
